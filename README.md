@@ -1,5 +1,6 @@
 # various-projects
-Some of my code projects I've done during my scholarship at Mines Paris
+
+The code and notebooks of some projects I've done at Mines Paris
 
 In the files 'classification_practical' and 'segmentation_practical' you will find some of the practical work i've done for my course on deep learning for image analysis.
 
